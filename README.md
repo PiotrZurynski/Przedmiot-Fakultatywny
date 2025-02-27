@@ -1,5 +1,6 @@
 # Przedmiot-Fakultatywny
-#169544 Piotr Żuryński
-#169497 Mikołaj Skrocki
-#155856 Klaudia Lubiejewska
-#169464 Jakub Michalski
+
+- Piotr Żuryński #169544
+- Mikołaj Skrocki #169497
+- Klaudia Lubiejewska #155856
+- Jakub Michalski #169464
